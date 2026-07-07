@@ -246,9 +246,6 @@ cat-dashboard/
 
 ---
 
-## 📝 License
-
-MIT License — Built for the Caterpillar Hackathon 2026.
 
 ---
 
